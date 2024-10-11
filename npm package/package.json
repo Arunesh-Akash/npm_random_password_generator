@@ -1,0 +1,22 @@
+{
+  "name": "arunesh-random-password-genertor",
+  "version": "1.0.0",
+  "description": "It is type of package which is used for generate random password",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arunesh-Akash/npm_random_password_generator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React.js",
+    "Next.js",
+    "Node.js",
+    "Angular"
+  ],
+  "author": "Arunesh Akash",
+  "license": "ISC"
+}
